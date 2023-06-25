@@ -5,7 +5,7 @@ this should be a ransomeware(I was supposed to attack my school and don't know w
 this is how it looks like.
 I am open for suggestions like always.(discord- shauryamishra)
 ## capable of... 
-* creating persistence so that the victim can't escape the attack
+* creating persistence so that the victim can't escape the attack(attack will be launched automatically on the startup)
 * occupies the whole window (victim won't be able to quit the window)
 * there is no way to access any other software
 * once wrong password is entered the entry field will be invisible(you can alter the number of attempts to enter the password obviously)
